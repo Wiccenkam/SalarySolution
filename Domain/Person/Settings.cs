@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Domain.Person
 {
-    public static class Setttings
+    public static class Settings
     {
         /// <summary>
         /// Count of works time in month
