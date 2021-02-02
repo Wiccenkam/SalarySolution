@@ -4,8 +4,11 @@ using System.Text;
 
 namespace Domain.Person
 {
-    public class Freelancer
+    public class Freelancer:Person
     {
-
+        public Freelancer(string name,  List<TimeRecord> timeRecords) : base(name, timeRecords)
+        {
+           
+        }
     }
 }
