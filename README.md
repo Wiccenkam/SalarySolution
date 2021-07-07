@@ -1,1 +1,1 @@
-# SalarySolution Payroll accounting in pure c #
+# SalarySolution Payroll accounting in pure c#
